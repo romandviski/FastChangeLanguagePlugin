@@ -3,6 +3,8 @@ This plugin allows you to quickly switch languages in the Unreal Engine.
 Distributed under the MIT license 
 (Free distribution at the mention of the author).
 
+Автор Олег https://github.com/SoulofAO/FastChangeLanguagePlugin
+
 The plugin versions are in the branches.
 Supported - UE 5.1 -5.4.
 Build Version branches are compiled versions of plugins for working with Blueprint Only projects.
